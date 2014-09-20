@@ -7,7 +7,7 @@ Simple interpolation module. Inspired by AngularJS handlebars implementation.
 Create an instance:
 
 ```js
-var D = require('D'); // Factory
+var D = require('node-d'); // Factory
 var d = D({ name: 'Alibaster' }); // d instance
 ```
 
