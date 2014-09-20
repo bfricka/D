@@ -1,11 +1,12 @@
 {
   "name": "node-d",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Simple interpolation",
   "main": "dist/index.js",
   "scripts": {
     "test": "mocha"
   },
+  "keywords": ["string", "interpolation"],
   "repository": {
     "type": "git",
     "url": "git@github.com:brian-frichette/D.git"
