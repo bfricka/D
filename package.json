@@ -1,6 +1,6 @@
 {
-  "name": "d",
-  "version": "0.2.0",
+  "name": "node-d",
+  "version": "0.2.1",
   "description": "Simple interpolation",
   "main": "dist/index.js",
   "scripts": {
