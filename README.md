@@ -57,3 +57,6 @@ d('/a/b/c/{{a.b.c}}');
 Originally this was for directory interpolation for build tasks and I wanted it to be as compact as possible, since JS doesn't have string interpolation. It has nothing directory-oriented in its implementation, but `D` is still small. I dunno.
 
 Ironically, this module is written in ES6, which does have string interpolation. Hopefully, this dies sooner rather than later.
+
+## License
+MIT
